@@ -255,7 +255,7 @@ href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data
 
 <p id="who-can-attend">
     <strong>Реєстрація:</strong>
-    Реєстрація на семінар The Carpentries (Київ, 2026) завершена.
+    Будь ласка, заповніть реєстраційну <a href="https://forms.gle/uz9oLi8i6tkjHSUi9">форму</a> для реєстрації на семінар The Carpentries (Київ, 7, 11.12.2026 р.) до 30.11.2026 р.
 </p>
 
 
